@@ -1,5 +1,5 @@
-Homesite for bookbinder -www.quantumelephant.co.uk/bookbinder/bookbinder.html
-E-Mail			-pangolin@quantumelephant.co.uk	
+Homesite for bookbinder: www.quantumelephant.co.uk/bookbinder/bookbinder.html
+E-Mail: pangolin@quantumelephant.co.uk	
 
 This archive should contain :-
 
